@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Julián Nieto
 Estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia | UNAL.
-Enfocaddo en desarrollo de software, algoritmos y manejo de datos. Utilizo este espacio para documentar proyectos académicos y prácticos, aplicar buenas prácticas de código y fortalecer mis habilidades técnicas.
+Enfocado en desarrollo de software, algoritmos y manejo de datos. Utilizo este espacio para documentar proyectos académicos y prácticos, aplicar buenas prácticas de código y fortalecer mis habilidades técnicas.
 Me encuentro en proceso de formación, pero cuento con conocimiento amplio y experiencia aplicada en múltiples áreas de la programación.
 
 ---
